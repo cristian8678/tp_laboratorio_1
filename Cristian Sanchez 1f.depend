@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1504722807 source:c:\users\q2\desktop\cristian sanchez 1f\funciones.c
+
+1504722728 source:c:\users\q2\desktop\cristian sanchez 1f\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504723585 c:\users\q2\desktop\cristian sanchez 1f\funciones.h
+
+1504722807 source:c:\users\q2\documents\cristian sanchez 1f\funciones.c
+
+1504722728 source:c:\users\q2\documents\cristian sanchez 1f\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1504723759 c:\users\q2\documents\cristian sanchez 1f\funciones.h
+
